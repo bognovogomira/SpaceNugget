@@ -15,5 +15,5 @@ Requirements : GHC, Cabal and [Gloss](https://hackage.haskell.org/package/gloss)
 
 To run game, open terminal in folder and run 
 
-``` $ cabal build
-$ cabal run```
+`$ cabal build`
+`$ cabal run`
